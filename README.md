@@ -1,8 +1,7 @@
 # Portuguese Bank Marketing Campaign Analysis & Prediction
 This project analyzes a Portuguese bank's marketing dataset to identify the key factors influencing customer subscription to term deposits. Using data preprocessing, visualization, and machine learning models, the goal is to gain insights and create accurate predictive models to improve marketing strategies.
-# Tech Stack
+# # Tech Stack &Libraries:
 * Languages & Tools: Python, Jupyter Notebook
-# Libraries:
 * pandas, numpy – Data manipulation & processing
 * matplotlib, seaborn – Data visualization
 * scikit-learn – Machine learning models & evaluation
