@@ -20,5 +20,5 @@ Project Workflow
 4.Model Training: Use classification models to predict customer subscriptions.
 5.Evaluation: Assess model performance using metrics like accuracy, precision, recall, and F1 score.
 
- After the analysis we see that our interest is over decreasing the False Negative means the client SUBSCRIBED to term deposit, but the model said he dont which indicates RECALL. So, we conclude that the model with high RECALL score (#88.77%) would be best suited for the problem statement i.e.,(Random Forest Classifier)
+ After the analysis we see that our interest is over decreasing the False Negative means the client SUBSCRIBED to term deposit, but the model said he dont which indicates RECALL. So, we conclude that the model with high RECALL score (88.77%) would be best suited for the problem statement i.e.,(Random Forest Classifier)
 
